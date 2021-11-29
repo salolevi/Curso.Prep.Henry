@@ -35,7 +35,7 @@ function getEmail(PATH) {
 			return email[0];
 		} else {
 			console.log(`
-            configura tu cuenta de git por favor!
+            cnfigura tu cuenta de git por favor!
             https://git-scm.com/book/es/v2/Personalizaci%C3%B3n-de-Git-Configuraci%C3%B3n-de-Git`);
 			process.exit()
 		}
