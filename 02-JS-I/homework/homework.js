@@ -152,7 +152,7 @@ function esPositivo(numero) {
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
   if (numero > 0) {
-    return 'Es Positivo';
+    return 'Es positivo';
   }
 
   else if (numero < 0){
